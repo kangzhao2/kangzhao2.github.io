@@ -1117,7 +1117,7 @@ footer .copyright {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-  min-height: 11rem;
+  min-height: 8rem;
   -webkit-border-radius: 10px;
           border-radius: 10px;
   overflow: hidden;
@@ -1137,9 +1137,9 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
-  width: 30%;
+  width: 25%;
   max-width: 100%;
-  min-height: 11rem;
+  min-height: 8rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
@@ -1147,7 +1147,7 @@ footer .copyright {
 
 .post .post-content {
   padding: 1rem;
-  width: 70%;
+  width: 75%;
 }
 
 .post .post-content .post-date,
@@ -1364,9 +1364,9 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1200px) {
   .post {
-    width: 48%;
+    width: 66%;
     max-width: 100%;
     margin: 0 0.9% 1.5%;
     -webkit-box-orient: vertical;
