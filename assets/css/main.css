@@ -928,7 +928,7 @@ table tfoot td {
           justify-content: space-between;
   position: fixed;
   top: 0;
-  left: 20px;
+  left: 0;
   bottom: 0;
   width: 360px;
   height: 100%;
@@ -1002,7 +1002,7 @@ table tfoot td {
 
 .content-box {
   padding: 20px;
-  padding-left: 400px;
+  padding-left: 380px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
