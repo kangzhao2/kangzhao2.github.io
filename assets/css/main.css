@@ -928,7 +928,7 @@ table tfoot td {
           justify-content: space-between;
   position: fixed;
   top: 0;
-  left: 0;
+  left: 20px;
   bottom: 0;
   width: 360px;
   height: 100%;
